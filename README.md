@@ -2,6 +2,8 @@
 
 A Python toolbox (`.pyt`) for filling digitized urban drainage **MU node** attributes from pipe connectivity, optional DWG survey levels, and mesh bathymetry in **ArcMap 10.8**.
 
+**Portfolio:** [Bipul Roy — Projects](https://bipul-roy-ai.github.io/projects/)
+
 It updates the selected MU node **shapefile in place** and automatically creates a timestamped backup alongside the original before editing. The node geometry and coordinate system are not changed.
 
 ![ArcMap toolbox input form](assets/arcmap_toolbox_dialog.png)
